@@ -1,0 +1,1 @@
+.\PreliminaryJudge.exe -m .\maps\map10.txt -d .\output.txt  ".\sdk\C++\main.exe"
